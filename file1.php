@@ -14,3 +14,8 @@ function GetText3(): string
 {
     return "Text3";
 }
+
+function GetText4(): string
+{
+    return "Text4";
+}
