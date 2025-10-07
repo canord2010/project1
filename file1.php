@@ -7,7 +7,7 @@ function GetText1(): string
 
 function GetText2(): string
 {
-    return "Text2";
+    return "Text20";
 }
 
 function GetText3(): string
