@@ -19,6 +19,7 @@ function GetText4(): string
 {
     return "Text4";
 }
+
 function GetText33(): string
 {
     return "Text33";
