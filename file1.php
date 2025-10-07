@@ -24,3 +24,8 @@ function GetText33(): string
 {
     return "Text33";
 }
+
+function GetText55(): string
+{
+    return "Text33";
+}
